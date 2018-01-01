@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\menu\\edit_options.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\menu\\edit_options.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\menu\\select_options.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\menu\\select_options.xml"
+    }
+]

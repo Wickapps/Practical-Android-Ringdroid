@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_right.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_left_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_left_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_options_bkgnd.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\button_options_bkgnd.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bkgnd_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\bkgnd_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_zoom_in.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\button_zoom_in.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_right_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_right_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_zoom_out.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\button_zoom_out.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type_notification.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\type_notification.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_right_focused.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_right_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_right_normal.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_right_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\resize_button_on.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\resize_button_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu_show_all_audio.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\menu_show_all_audio.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type_alarm.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\type_alarm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\star.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_left.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu_about.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\menu_about.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_options.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\button_options.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bkgnd_pressed.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\bkgnd_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type_music.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\type_music.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\resize_button_off.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\resize_button_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu_reset.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\menu_reset.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\type_ringtone.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\type_ringtone.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bkgnd.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\bkgnd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\resize_button.xml",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\resize_button.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\menu_save.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\menu_save.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_left_focused.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_left_focused.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\marker_left_normal.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\marker_left_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Ringdroid\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ringdroidlogo.png",
+        "source": "D:\\AndroidStudioProjects\\Ringdroid\\app\\src\\main\\res\\drawable\\ringdroidlogo.png"
+    }
+]

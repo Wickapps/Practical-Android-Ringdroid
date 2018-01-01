@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJW\.android\build-cache\348135822e650c8c47d0099015cb1513a719fa21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\AndroidStudioProjects\Ringdroid\app\build\intermediates\pre-dexed\release\classes_e9a15c2369d97bdccc232cfb3dca9fb9ee42c5b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\AndroidStudioProjects\Ringdroid\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0_c179e9f7fc14883d6dac5a6f482ee7649b4ea88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJW\.android\build-cache\348135822e650c8c47d0099015cb1513a719fa21\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\AndroidStudioProjects\Ringdroid\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0_d3c75cf175be962c2de52838dedfac89a527e90d.jar" />
+    </item>
+
+</items>
